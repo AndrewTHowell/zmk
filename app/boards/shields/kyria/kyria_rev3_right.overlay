@@ -7,7 +7,7 @@
 #include "kyria_rev3.dtsi"
 
 &default_transform {
-	col-offset = <8>;
+	col-offset = <7>;
 };
 
 &kscan0 {
